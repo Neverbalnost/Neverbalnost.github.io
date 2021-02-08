@@ -1,0 +1,22 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "5M7AR582D6.uk.co.ee.flexDevelopment" ],
+             "components": [
+               {
+               {
+                  "/": "/appLinkTest",
+                  "comment": "Matches any URL whose path starts with /buy/"
+               }
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "5M7AR582D6.uk.co.ee.flexDevelopment" ]
+   },
+    "appclips": {
+        "apps": ["5M7AR582D6.uk.co.ee.flexDevelopment.Clip"]
+    }
+}
