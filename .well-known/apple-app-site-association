@@ -3,8 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "5M7AR582D6.uk.co.ee.flexDevelopment",
-                "paths": [ "/appLinkTest" ]
+                "appID": "5M7AR582D6.uk.co.ee.flutterPoc",
+                "paths": [ "/settingsPage", "/homePage", "/dummyPage" ]
             }
         ]
     }
