@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "5M7AR582D6.uk.co.ee.flutterPoc",
+                "appID": "5M7AR582D6.ee.co.uk.flutterPoc",
                 "paths": [ "/settingsPage", "/homePage", "/dummyPage" ]
             }
         ]
