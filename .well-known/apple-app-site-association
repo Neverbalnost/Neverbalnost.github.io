@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "5M7AR582D6.ee.co.uk.flutterPoc",
-                "paths": [ "/settingsPage", "/homePage", "/dummyPage" ]
+                "paths": [ "/main/settingsPage", "/main/homePage", "/main/dummyPage" ]
             }
         ]
     }
